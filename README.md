@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 
 Email : mishimakade48@gmail.com
+LinkedIn : Mishi Makade
 
 <!---
 Mschlei-48/Mschlei-48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
