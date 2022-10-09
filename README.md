@@ -1,5 +1,5 @@
 - 👋 Hi, I am Mishi Makade. In Github I am @Maschlei-48
-- 👀 I’m interested in problems faced by the health sector and image processing. In my leisure time I like learning new data science skills and aplying them to solve real world problems.
+- 👀 I’m interested in problems faced by the health sector, image processing and encryption algorithms. In my leisure time I like learning new data science skills and aplying them to solve real world problems.
 - 🌱 I’m currently persuing an Honours degree in Data Science.
 - 📫 How to reach me:
 
